@@ -1,0 +1,37 @@
+INFO 2023-09-25 17:38:01,253 autoreload 16604 2228 Watching for file changes with StatReloader
+INFO 2023-09-25 17:38:03,416 basehttp 16604 7568 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 17:38:08,382 basehttp 16604 7568 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 17:38:12,671 basehttp 16604 7568 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 17:38:29,797 basehttp 16604 7568 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 17:42:08,716 autoreload 13880 2260 Watching for file changes with StatReloader
+INFO 2023-09-25 17:42:10,973 basehttp 13880 6056 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 17:42:12,559 basehttp 13880 6056 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 18:52:04,164 autoreload 2904 4948 Watching for file changes with StatReloader
+INFO 2023-09-25 18:52:05,960 basehttp 2904 12844 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 18:52:08,191 basehttp 2904 12844 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 18:52:09,456 basehttp 2904 12844 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 18:52:26,698 autoreload 2904 4948 E:\GB\Django\HW\HW\urls.py changed, reloading.
+INFO 2023-09-25 18:52:26,952 autoreload 16852 12592 Watching for file changes with StatReloader
+INFO 2023-09-25 18:53:00,579 autoreload 16852 12592 E:\GB\Django\HW\HW\urls.py changed, reloading.
+INFO 2023-09-25 18:53:00,839 autoreload 13500 15100 Watching for file changes with StatReloader
+INFO 2023-09-25 18:53:03,112 basehttp 13500 10716 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 18:53:05,409 basehttp 13500 10716 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 19:21:32,287 autoreload 11796 10144 Watching for file changes with StatReloader
+INFO 2023-09-25 19:21:35,610 basehttp 11796 14184 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 19:21:38,287 basehttp 11796 14184 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 19:26:51,667 autoreload 6680 20204 Watching for file changes with StatReloader
+INFO 2023-09-25 19:32:13,906 autoreload 20592 20760 Watching for file changes with StatReloader
+INFO 2023-09-25 19:32:15,990 basehttp 20592 16816 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 19:32:17,780 basehttp 20592 16816 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 19:47:08,714 autoreload 19608 2264 Watching for file changes with StatReloader
+INFO 2023-09-25 19:47:37,283 autoreload 19608 2264 E:\GB\Django\HW\hw\urls.py changed, reloading.
+INFO 2023-09-25 19:47:37,561 autoreload 13528 16864 Watching for file changes with StatReloader
+INFO 2023-09-25 19:47:38,692 basehttp 13528 15960 "GET / HTTP/1.1" 200 865
+INFO 2023-09-25 19:47:40,582 basehttp 13528 15960 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-25 19:47:41,877 basehttp 13528 15960 "GET /about/ HTTP/1.1" 200 666
+INFO 2023-09-26 18:21:15,119 autoreload 8668 7588 Watching for file changes with StatReloader
+INFO 2023-09-26 18:21:18,384 basehttp 8668 5744 "GET / HTTP/1.1" 200 753
+WARNING 2023-09-26 18:21:18,748 log 8668 5744 Not Found: /favicon.ico
+WARNING 2023-09-26 18:21:18,749 basehttp 8668 5744 "GET /favicon.ico HTTP/1.1" 404 2234
+INFO 2023-09-26 18:21:20,514 basehttp 8668 5744 "GET /about/ HTTP/1.1" 200 636
+INFO 2023-09-26 18:22:00,203 basehttp 8668 7856 "GET /about/ HTTP/1.1" 200 636
